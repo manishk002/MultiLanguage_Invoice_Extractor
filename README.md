@@ -23,7 +23,7 @@ This project is a Streamlit-based web application that uses Google's Gemini Pro 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/multi-language-invoice-extractor.git
+   git clone https://github.com/mansihk002/multi-language-invoice-extractor.git
    cd multi-language-invoice-extractor
    ```
 
